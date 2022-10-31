@@ -35,11 +35,14 @@ import 'bootstrap/dist/css/bootstrap.css';
 
 Here is the [documentation](https://create-react-app.dev/docs/adding-bootstrap/) on how to add bootstrap to a React website.
 
+#### To start your project
 
 To get started immediately on the project, do the following in your command line:
-``` npx create-react-app my-app
-    cd my-app
-    npm start ```
+```
+npx create-react-app my-app
+cd my-app
+npm start
+```
 
 It willautomatically open http://localhost:3000/ to see your app.
 When you’re ready to deploy to production, create a minified bundle with npm run build.
