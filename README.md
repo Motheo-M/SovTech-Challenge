@@ -11,8 +11,6 @@ What I needed to accomplish the task:
 
 ### How to Bootstrap the App
 
-Here is the [documentation](https://create-react-app.dev/docs/adding-bootstrap/) on how to add bootstrap to a React website.
-
 First download the latest [node.js](https://nodejs.org/en/) runtime enviroment.
 
 Next you need to do is install the bootstrap in your command line:
