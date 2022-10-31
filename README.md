@@ -9,9 +9,11 @@ What I needed to accomplish the task:
 * Visual Studio
 * GitHub
 
-### Bootstrap
+### How to Bootstrap the App
+https://create-react-app.dev/docs/adding-bootstrap/
 
 
 
+### Link to my React.js Website
+Here is the link(https://motheo.netlify.app/) to my website
 
-https://motheo.netlify.app/
