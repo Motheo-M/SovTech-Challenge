@@ -10,10 +10,15 @@ What I needed to accomplish the task:
 * GitHub
 
 ### How to Bootstrap the App
-https://create-react-app.dev/docs/adding-bootstrap/
+
+Here is the [documentation](https://create-react-app.dev/docs/adding-bootstrap/) on how to add bootstrap to a React website.
+
+The first you need to do is install the bootstrap in your command line:
+``` npm install bootstrap ```
+
 
 
 
 ### Link to my React.js Website
-Here is the [link](https://motheo.netlify.app/) to my website
+https://motheo.netlify.app/
 
