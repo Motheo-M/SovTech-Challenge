@@ -1,0 +1,30 @@
+/* AboutMe.js and SovTech.js*/
+
+.acc-about-me {
+    width: 75%;
+    margin: auto;
+}
+
+.acc-sovtech {
+    width: 75%;
+    margin: auto;
+}
+
+.accordion-button {
+    font-weight: 500;
+}
+
+.accordion-button:focus {
+    box-shadow: none;
+}
+
+.accordion-button:not(.collapsed) {
+    color: #212529;
+}
+
+p {
+    text-transform: none;
+    text-decoration: none;
+    font-size: 1.05rem;
+    text-align: center;
+}

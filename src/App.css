@@ -1,0 +1,19 @@
+/* Imported by the App.js */
+
+/* Body */
+
+.App {
+  text-align: center;
+  background-color: #002244;
+}
+
+.about-me {
+  padding-bottom: 1.5rem;
+  color: white;
+}
+
+.tech {
+  padding-bottom: 1.5rem;
+  padding-top: 2rem;
+  color: white;
+}

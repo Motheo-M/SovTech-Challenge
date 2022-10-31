@@ -1,0 +1,62 @@
+/*Header section*/
+/* Imported by Nav.js */
+
+/*Spining react logo*/
+.App-logo {
+    height: 10vmin;
+    pointer-events: none;
+  }
+  
+  /*Spiining react logo*/
+  @media (prefers-reduced-motion: no-preference) {
+    .App-logo {
+      animation: App-logo-spin infinite 20s linear;
+    }
+  }
+  
+
+  /*Spining react logo*/
+  @keyframes App-logo-spin {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }
+  
+
+  /* Introduction section */
+  .jumbotron {
+    padding: 4rem 1rem;
+    margin-bottom: 2rem;
+    background-color: #e9ecef;
+    border-radius: 0.3rem;
+    background-image: url("../pictures/jumbotron-img.jpg");
+    -webkit-background-size: 100% 100%;
+    -moz-background-size: 100% 100%;
+    -o-background-size: 100% 100%;
+    background-size: cover;
+  }
+
+  .title-name, .my-name {
+    color: white;
+  }
+
+  /* Footer section */
+  /* Imported by Footer.js */
+
+.footer {
+  padding: 2rem 0;
+}
+
+.web-links {
+  margin: auto;
+}
+
+.linkedin {
+  padding-left: 2rem;
+}
+.github {
+  padding-left: 0.5rem;
+}
